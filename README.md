@@ -5,4 +5,3 @@ U-Trition aims to guide users towards making healthier daily dietary choices. Se
 ### UI Design
 ![image](https://github.com/ethan-t-hansen/nutrition-app/assets/103151232/3dd2640c-e382-45ce-addd-8fb236e91bf7)
 ![image](https://github.com/ethan-t-hansen/nutrition-app/assets/103151232/629b357a-60a0-4958-a578-239a1988bf37)
-![Uploading image.png…]()
